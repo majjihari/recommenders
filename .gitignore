@@ -85,7 +85,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -135,7 +134,6 @@ reco_*.yaml
 *.csv
 *.zip
 *.7z
-.vscode/
 u.item
 ml-100k/
 ml-10M100K/
@@ -165,3 +163,5 @@ examples/07_tutorials/KDD2020-tutorial/data_folder/
 
 tests/**/resources/
 reports/
+config.bat
+node_modules
